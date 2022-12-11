@@ -1,0 +1,8 @@
+Netflix Visualizations, Recommendation, EDA
+https://www.kaggle.com/code/niharika41298/netflix-visualizations-recommendation-eda
+
+Geospatial Analysis of Brazilian E-Commerce
+https://www.kaggle.com/code/andresionek/geospatial-analysis-of-brazilian-e-commerce#Geospatial-Analysis-of-Brazilian-E-Commerce
+
+E-Commerce Sentiment Analysis: EDA + Viz + NLP
+https://www.kaggle.com/code/thiagopanini/e-commerce-sentiment-analysis-eda-viz-nlp
